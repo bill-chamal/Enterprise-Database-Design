@@ -23,9 +23,9 @@ This repository contains the Enhanced Entity-Relationship (EER) model and SQL im
 
 **Technologies Used**
 
--MySQL
--SQL (DDL & DML)
--MySQL Workbench
+- MySQL
+- SQL (DDL & DML)
+- MySQL Workbench
 
 <h2>About:</h2>
 <p><b>Author: </b><a href="https://github.com/bill-chamal">Bill Chamalidis</a> University of Macedonia</p>
