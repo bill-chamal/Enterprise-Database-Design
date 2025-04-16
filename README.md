@@ -1,5 +1,7 @@
 # Enterprise Database Design & Implementation (MySQL)
 
+Apr 2022
+
 This repository contains the Enhanced Entity-Relationship (EER) model and SQL implementation for an enterprise database system, designed using MySQL Workbench
 
 
