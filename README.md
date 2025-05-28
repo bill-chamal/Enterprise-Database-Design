@@ -2,7 +2,7 @@
 
 Apr 2022
 
-This repository contains the Enhanced Entity-Relationship (EER) model and SQL implementation for an enterprise database system, designed using MySQL Workbench
+This repository contains the Entity-Relationship model and SQL implementation for an enterprise database system, designed using MySQL Workbench
 
 
 ![](img/2-Β.png)
@@ -18,7 +18,7 @@ This repository contains the Enhanced Entity-Relationship (EER) model and SQL im
 
 **Features & Implementation**
 
-- EER Diagram created in MySQL Workbench
+- ER Diagram created in MySQL Workbench
 - SQL scripts for database creation & population
 - Referential integrity ensured through foreign keys
 - Optimized queries for data retrieval
